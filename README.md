@@ -1,7 +1,5 @@
 # pomodoro
 
-https://des86532.github.io/pomodoro/
-
 ## Project setup
 ```
 npm install
